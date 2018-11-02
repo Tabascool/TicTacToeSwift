@@ -14,6 +14,7 @@
 		F9B883D7218A2FE000691CDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9B883D5218A2FE000691CDF /* LaunchScreen.storyboard */; };
 		F9B883E2218A2FE000691CDF /* TicTacToeSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B883E1218A2FE000691CDF /* TicTacToeSwiftTests.swift */; };
 		F9B883ED218A2FE000691CDF /* TicTacToeSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B883EC218A2FE000691CDF /* TicTacToeSwiftUITests.swift */; };
+		F9B883FD218A45F400691CDF /* ViewControllerGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B883FC218A45F400691CDF /* ViewControllerGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F9B883E8218A2FE000691CDF /* TicTacToeSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9B883EC218A2FE000691CDF /* TicTacToeSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeSwiftUITests.swift; sourceTree = "<group>"; };
 		F9B883EE218A2FE000691CDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9B883FC218A45F400691CDF /* ViewControllerGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F9B883D3218A2FE000691CDF /* Assets.xcassets */,
 				F9B883D5218A2FE000691CDF /* LaunchScreen.storyboard */,
 				F9B883D8218A2FE000691CDF /* Info.plist */,
+				F9B883FC218A45F400691CDF /* ViewControllerGame.swift */,
 			);
 			path = TicTacToeSwift;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				F9B883CF218A2FE000691CDF /* ViewController.swift in Sources */,
 				F9B883CD218A2FE000691CDF /* AppDelegate.swift in Sources */,
+				F9B883FD218A45F400691CDF /* ViewControllerGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
